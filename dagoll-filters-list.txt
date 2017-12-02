@@ -1,0 +1,60 @@
+! Title: Dagoll's Filters List
+! Version: 20171202
+! Last modified: 02 Des 2017 14:36 WIB
+! Expires: 1 days (update frequency)
+!
+! Ad Blocking Rules
+! -----------------
+||gambar123.com/xf/trump/xyz_*.gif$image
+||semprot.com/js/redactor/*$domain=semprot.com
+!
+! Element Hiding Rules
+! --------------------
+animeindo.co##.anime-home720navi
+animeindo.co##.gridfull.bggreymid.boxs.mobilehide
+animeindo.co###msbMsb
+animeindo.co###videoad2
+animeindo.co###videoad4
+animeindo.co###videoads
+detik.com##.close_billboard.hide_billboard
+detik.com###banner_top_detail
+detik.com###scl1
+detik.com###scl2
+idfl.me###notices
+kompas.com##.box-shadow-new:nth-of-type(6)
+kompas.com###js-radio > .clearfix.container
+linkshrink.net##a[href^="http://p31770.inclk.com/itab/sa"]
+mangaku.web.id###cba
+mangaku.web.id###kanan
+mangaku.web.id###bm_banner
+mangaku.web.id##iframe[src="http://mangaku.web.id/Gambar/Ads%20index300.html"]
+republika.co.id##.ads-300x100
+republika.co.id##.apps-box.row
+republika.co.id##.topline-ads
+republika.co.id###adsframe
+republika.co.id###Balloon_hide
+republika.co.id###Balloon_inner_wrp
+republika.co.id##body > div:nth-of-type(2)
+semprot.com##.semprotnenenmontok_1
+semprot.com##.semprotnenenmontok_2
+semprot.com##.semprotnenenmontok_flr
+semprot.com##.semprotnenenmontok_sq
+semprot.com###semprotnenenmontok_3
+semprot.com###semprotnenenmontok_4
+semprot.com###semprotnenenmontok_f
+semprot.com##div:nth-of-type(3) > a[href^="yum.php"] > .semprotnenenmontok_h
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > .warning
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(2)
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(4)
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(5)
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(6)
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(7)
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(8)
+semprot.com##div:nth-of-type(9)
+semprot.com##.breadBoxBottom > .warning
+semprot.com##.breadBoxBottom > div:nth-of-type(3)
+semprot.com###my_qrcode
+semprot.com##.notice_16.DismissParent.Notice.panel > .noticeContent.baseHtml
+semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(1)
+semprot.com###post-1897020576 > div:nth-of-type(4)
+uptobox.com###header > div
