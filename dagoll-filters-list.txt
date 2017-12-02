@@ -16,6 +16,9 @@ animeindo.co###msbMsb
 animeindo.co###videoad2
 animeindo.co###videoad4
 animeindo.co###videoads
+cgv.id##.home-banner-wrapper
+cgv.id##.top-banner > .banner-wrapper
+cgv.id##.bottom-banner > .banner-wrapper
 detik.com##.close_billboard.hide_billboard
 detik.com###banner_top_detail
 detik.com###scl1
