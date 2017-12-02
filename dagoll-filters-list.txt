@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20171202
-! Last modified: 02 Des 2017 15:19 WIB
+! Last modified: 02 Des 2017 15:38 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
