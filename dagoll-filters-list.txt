@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20171202
-! Last modified: 16 Des 2017 19:37 WIB
+! Last modified: 16 Des 2017 19:40 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -28,6 +28,7 @@ kompas.com##.box-shadow-new:nth-of-type(6)
 kompas.com###js-radio > .clearfix.container
 kompasiana.com###sticky-mobile-r
 koreanindo.net##.wpcnt-header.wpcnt
+koreanindo.net##.wpwidesky.wpa
 linkshrink.net##a[href^="http://p31770.inclk.com/itab/sa"]
 mangaku.web.id###cba
 mangaku.web.id###kanan
