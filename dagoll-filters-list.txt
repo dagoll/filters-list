@@ -24,6 +24,7 @@ detik.com###banner_top_detail
 detik.com###scl1
 detik.com###scl2
 idfl.me###notices
+jne.co.id###popup_jne
 kompas.com##.box-shadow-new:nth-of-type(6)
 kompas.com###js-radio > .clearfix.container
 kompasiana.com###sticky-mobile-r
