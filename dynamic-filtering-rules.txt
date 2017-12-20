@@ -1,7 +1,7 @@
 ! Title: Dynamic Filtering Rules
 ! Version: 20171220
-! Last modified: 20 Des 2017 22:44 WIB
-
+! Last modified: 20 Des 2017 22:45 WIB
+!
 no-popups: animeindo.co true
 no-popups: cloudyfiles.org true
 no-popups: mangaku.web.id true
