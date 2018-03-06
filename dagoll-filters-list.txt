@@ -1,10 +1,11 @@
 ! Title: Dagoll's Filters List
 ! Version: 20180307
-! Last modified: 07 Mar 2018 06:38 WIB
+! Last modified: 07 Mar 2018 06:44 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
 ! -----------------
+||*/showads.*
 ||gambar123.com/xf/trump/xyz_*.gif$image
 ||semprot.com/js/redactor/*$domain=semprot.com
 !
