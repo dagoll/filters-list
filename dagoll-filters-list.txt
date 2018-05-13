@@ -7,7 +7,6 @@
 ! -----------------
 ||gambar123.com/xf/trump/xyz_*.gif$image
 ||semprot.com/js/redactor/*$domain=semprot.com
-||mangaku.in/manga/img/*-background.jpg$image
 
 !
 ! Element Hiding Rules
@@ -43,6 +42,7 @@ mangaku.web.id###cba
 mangaku.web.id###kanan
 mangaku.web.id###bm_banner
 mangaku.in##.adv
+mangaku.in##[src="http://mangaku.in/Gambar/suport.html"]
 mangaku.in###bm_banner
 republika.co.id##.ads-300x100
 republika.co.id##.apps-box.row
