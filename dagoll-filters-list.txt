@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20180307
-! Last modified: 07 Mar 2018 21:27 WIB
+! Version: 20180513
+! Last modified: 13 Mei 2018 12:34 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -40,6 +40,8 @@ mangaku.web.id###cba
 mangaku.web.id###kanan
 mangaku.web.id###bm_banner
 mangaku.web.id##iframe[src="http://mangaku.web.id/Gambar/Ads%20index300.html"]
+mangaku.in###bm_banner
+mangaku.in##.adv
 republika.co.id##.ads-300x100
 republika.co.id##.apps-box.row
 republika.co.id##.topline-ads
