@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20180513
-! Last modified: 13 Mei 2018 12:438 WIB
+! Version: 20180521
+! Last modified: 21 Mei 2018 17:04 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -15,6 +15,7 @@ animeindo.co##.anime-home720navi
 animeindo.co##.bgblacktr.marginbot:nth-of-type(1)
 animeindo.co##.boxs.bgblacktr
 animeindo.co##.gridfull.bggreymid.boxs.mobilehide
+animeindo.co##.highlight > div:nth-of-type(1)
 animeindo.co##.marginbot:nth-of-type(2)
 animeindo.co##.marginbot.boxs.bgblacktr
 animeindo.co##.postcon > div:nth-of-type(2)
