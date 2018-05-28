@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20180521
-! Last modified: 21 Mei 2018 17:04 WIB
+! Version: 20180528
+! Last modified: 28 Mei 2018 19:46 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -30,8 +30,12 @@ detik.com##.close_billboard.hide_billboard
 detik.com###banner_top_detail
 detik.com###scl1
 detik.com###scl2
+forum.idws.id##li.message:nth-of-type(2)
+forum.xda-developers.com##.xda-box.postbit-wrapper
 idfl.me###notices
 jne.co.id###popup_jne
+kaskus.co.id##div.row:nth-of-type(8) > .col-xs-12
+kaskus.co.id###recommended-for-you > .col-xs-12
 kompas.com##.box-shadow-new:nth-of-type(6)
 kompas.com###js-radio > .clearfix.container
 kompasiana.com###sticky-mobile-r
