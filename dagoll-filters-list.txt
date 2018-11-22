@@ -38,6 +38,7 @@ jne.co.id###popup_jne
 kaskus.co.id##div.row:nth-of-type(8) > .col-xs-12
 kaskus.co.id###recommended-for-you > .col-xs-12
 kompas.com##.box-shadow-new:nth-of-type(6)
+kompas.com##.read__content > div:nth-of-type(2)
 kompas.com###js-radio > .clearfix.container
 kompasiana.com###sticky-mobile-r
 koreanindo.net##.wpcnt-header.wpcnt
