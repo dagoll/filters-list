@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20191215
-! Last modified: 15 December 2019 07:50 WIB
+! Last modified: 15 December 2019 08:28 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -41,9 +41,18 @@ kompas.com##.box-shadow-new:nth-of-type(6)
 kompas.com##.read__content > div:nth-of-type(1)
 kompas.com##.read__content > div:nth-of-type(2)
 kompas.com###js-radio > .clearfix.container
+kompasiana.com##.visible-lg.ads-skin
+kompasiana.com##.mt20.r2.banner-right.js-giant-wp-sticky
+kompasiana.com##.mb20.banner-top
+kompasiana.com##.mb20.r1.banner-right
+kompasiana.com##.mb20.banner-right-sticky-wrap
+kompasiana.com##.text-center.flying_desktop
+kompasiana.com##.pip.insider
+kompasiana.com##.is_stuck.clearfix.col-xs-3.col-sm-3.col-md-3.col-lg-3.sticky-right.ads__skyscraper.ads
 kompasiana.com###sticky-mobile-r
-kompasiana.com###ads-horizontal clearfix
-kompasiana.com###ads-skin visible-lg
+kompasiana.com###ehfh-3nEXp38R7jUC3jTVq0vSqU_TqEvSqkzVqkraqU3OqR
+kompasiana.com###ehfh-3UfR3XQG1XkF6WcK3IoC530ApUrSskfRrE3WpVMwx2giyVEixFjPuVcupYoG23wAr2cA2XcP7nkK5H0T1Wb
+kompasiana.com###ehfh-3UfR3XQG1XkF6WcK3IoC530ApUrSskfRrE3WpVMwx2giyVEixFjPuVcupYoG23wAq0kA1XsQ5IwC43YG6GcA
 koreanindo.net##.wpcnt-header.wpcnt
 koreanindo.net##.wpwidesky.wpa
 linkshrink.net##a[href^="http://p31770.inclk.com/itab/sa"]
