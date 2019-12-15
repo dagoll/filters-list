@@ -1,10 +1,24 @@
 ! Title: Dynamic Filtering Rules
-! Version: 20171220
-! Last modified: 20 Des 2017 22:45 WIB
+! Version: 20191215
+! Last modified: 15 Des 2019 08:30 WIB
 !
+no-large-media: behind-the-scene false
 no-popups: animeindo.co true
 no-popups: cloudyfiles.org true
-no-popups: mangaku.web.id true
+no-popups: mangaku.in true
+no-popups: rarbgaccess.org true
 no-popups: semprot.com true
 no-popups: sendvid.com true
 no-popups: suprafiles.org true
+no-popups: uploadhaven.com true
+no-scripting: behind-the-scene false
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+kompasiana.com zlhlk.com * allow
+zulu.id zulu.id * allow
+
