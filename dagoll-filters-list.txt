@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20191215
-! Last modified: 15 December 2019 08:28 WIB
+! Last modified: 1 April 2020 16:13 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -29,6 +29,7 @@ cgv.id##.top-banner > .banner-wrapper
 cgv.id##.bottom-banner > .banner-wrapper
 detik.com##.close_billboard.hide_billboard
 detik.com###banner_top_detail
+detik.com###prestitial
 detik.com###scl1
 detik.com###scl2
 forum.idws.id##li.message:nth-of-type(2)
