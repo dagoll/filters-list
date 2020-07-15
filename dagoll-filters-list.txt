@@ -66,6 +66,7 @@ mangaku.*##.adv
 mangaku.*##[src="http://mangaku.in/Gambar/suport.html"]
 mangaku.*###bm_banner
 mangaku.*###ftads
+mangaku.*###ftadsth
 republika.co.id##.ads-300x100
 republika.co.id##.apps-box.row
 republika.co.id##.topline-ads
