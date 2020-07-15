@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20191215
-! Last modified: 1 April 2020 16:13 WIB
+! Version: 20200715
+! Last modified: 15 Juli 2020 08:07 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -58,14 +58,14 @@ kompasiana.com###ehfh-3UfR3XQG1XkF6WcK3IoC530ApUrSskfRrE3WpVMwx2giyVEixFjPuVcupY
 koreanindo.net##.wpcnt-header.wpcnt
 koreanindo.net##.wpwidesky.wpa
 linkshrink.net##a[href^="http://p31770.inclk.com/itab/sa"]
-mangaku.web.id##iframe[src="http://mangaku.web.id/Gambar/Ads%20index300.html"]
-mangaku.web.id###cba
-mangaku.web.id###kanan
-mangaku.web.id###bm_banner
-mangaku.in##.adv
-mangaku.in##[src="http://mangaku.in/Gambar/suport.html"]
-mangaku.in###bm_banner
-mangaku.in###ftads
+mangaku.*##iframe[src="http://mangaku.web.id/Gambar/Ads%20index300.html"]
+mangaku.*###cba
+mangaku.*###kanan
+mangaku.*###bm_banner
+mangaku.*##.adv
+mangaku.*##[src="http://mangaku.in/Gambar/suport.html"]
+mangaku.*###bm_banner
+mangaku.*###ftads
 republika.co.id##.ads-300x100
 republika.co.id##.apps-box.row
 republika.co.id##.topline-ads
