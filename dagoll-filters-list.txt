@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20200715
-! Last modified: 15 Juli 2020 08:07 WIB
+! Version: 20201122
+! Last modified: 22 September 2020 19:20 WIB
 ! Expires: 1 days (update frequency)
 !
 ! Ad Blocking Rules
@@ -97,3 +97,4 @@ semprot.com##.notice_16.DismissParent.Notice.panel > .noticeContent.baseHtml
 semprot.com##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(1)
 semprot.com###post-1897020576 > div:nth-of-type(4)
 uptobox.com###header > div
+who.is##.home-video-blurb.row
