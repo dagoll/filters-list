@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20210315
-! Last modified: 15 Maret 2021 19:20 WIB
+! Version: 20210402
+! Last modified: 02 April 2021 20:33 WIB
 ! Expires: 1 days (update frequency)
 !
 !
@@ -12,6 +12,7 @@
 @@cbn.net.id
 @@jd.id
 @@jd.com
+@@jet.co.id
 @@pajak.go.id
 !
 !
