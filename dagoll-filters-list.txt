@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20210402
-! Last modified: 02 April 2021 20:33 WIB
+! Version: 20210424
+! Last modified: 24 April 2021 18:26 WIB
 ! Expires: 1 days (update frequency)
 !
 !
@@ -24,6 +24,7 @@
 !
 ! Element Hiding Rules
 ! --------------------
+185.231.223.71###repop
 animeindo.co##.anime-home720navi
 animeindo.co##.bgblacktr.marginbot:nth-of-type(1)
 animeindo.co##.boxs.bgblacktr
