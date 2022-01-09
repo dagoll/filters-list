@@ -1,8 +1,8 @@
 ! Title: Dagoll's Filters List
 ! Version: 20211013
-! Last modified: 13 Oktober 2021 08:31 WIB
+! Last modified: 09 January 2022 09:31 WIB
 ! Expires: 1 days (update frequency)
-!
+! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
 ! Whitelist Rules
 ! ---------------
@@ -27,7 +27,9 @@
 !
 ! Element Hiding Rules
 ! --------------------
+*###repop
 185.231.223.71###repop
+193.178.172.113###repop
 animeindo.co##.anime-home720navi
 animeindo.co##.bgblacktr.marginbot:nth-of-type(1)
 animeindo.co##.boxs.bgblacktr
