@@ -28,8 +28,6 @@
 ! Element Hiding Rules
 ! --------------------
 *###repop
-185.231.223.71###repop
-193.178.172.113###repop
 animeindo.co##.anime-home720navi
 animeindo.co##.bgblacktr.marginbot:nth-of-type(1)
 animeindo.co##.boxs.bgblacktr
