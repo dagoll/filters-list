@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20220212
-! Last modified: 12 February 2022 13:05 WIB
+! Last modified: 12 February 2022 13:14 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -17,8 +17,8 @@
 @@ksei.co.id
 @@pajak.go.id
 @@realme.com
-@@*.nontongp.com
-@@*.nontongp.xyz
+@@www.nontongp.com
+@@www.nontongp.xyz
 !
 !
 ! Ad Blocking Rules
