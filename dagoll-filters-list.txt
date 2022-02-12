@@ -17,6 +17,7 @@
 @@ksei.co.id
 @@pajak.go.id
 @@realme.com
+@@nontongp.*
 !
 !
 ! Ad Blocking Rules
