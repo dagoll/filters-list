@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20220212
-! Last modified: 12 February 2022 13:19 WIB
+! Version: 20220620
+! Last modified: 20 June 2022 05:58 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -30,6 +30,8 @@
 ! Element Hiding Rules
 ! --------------------
 *###repop
+##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
+##.sgpb-popup-dialog-main-div-wrapper
 animeindo.co##.anime-home720navi
 animeindo.co##.bgblacktr.marginbot:nth-of-type(1)
 animeindo.co##.boxs.bgblacktr
