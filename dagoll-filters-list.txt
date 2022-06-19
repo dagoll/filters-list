@@ -29,12 +29,12 @@
 !
 ! Element Hiding Rules
 ! --------------------
-*###repop
 ##.chain
-###teaser1
-###overplay
 ##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
 ##.sgpb-popup-dialog-main-div-wrapper
+*###repop
+###teaser1
+###overplay
 animeindo.co##.anime-home720navi
 animeindo.co##.bgblacktr.marginbot:nth-of-type(1)
 animeindo.co##.boxs.bgblacktr
