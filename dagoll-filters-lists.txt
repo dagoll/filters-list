@@ -2,7 +2,7 @@
 ! Version: 20220620
 ! Last modified: 20 June 2022 06:27 WIB
 ! Expires: 1 days (update frequency)
-! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
+! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-lists.txt
 !
 ! Whitelist Rules
 ! ---------------
