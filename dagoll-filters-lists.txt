@@ -1,0 +1,124 @@
+! Title: Dagoll's Filters List
+! Version: 20220620
+! Last modified: 20 June 2022 06:27 WIB
+! Expires: 1 days (update frequency)
+! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
+!
+! Whitelist Rules
+! ---------------
+@@anteraja.id
+@@brightgas.co.id
+@@cbn.id
+@@cbn.net.id
+@@jd.id
+@@jd.com
+@@jet.co.id
+@@joybuy.com
+@@ksei.co.id
+@@pajak.go.id
+@@realme.com
+@@nontongp.com
+@@nontongp.xyz
+!
+!
+! Ad Blocking Rules
+! -----------------
+||gambar123.com/xf/trump/xyz_*.gif$image
+||semprot.com/js/redactor/*$domain=semprot.com
+!
+!
+! Element Hiding Rules
+! --------------------
+##.ads-300x100
+##.adv
+##.anime-home720navi
+##.apps-box.row
+##.bgblacktr.marginbot:nth-of-type(1)
+##.bottom-banner > .banner-wrapper
+##.box-shadow-new:nth-of-type(6)
+##.boxs.bgblacktr
+##.breadBoxBottom > .warning
+##.breadBoxBottom > div:nth-of-type(3)
+##.chain
+##.close_billboard.hide_billboard
+##.gridfull.bggreymid.boxs.mobilehide
+##.highlight > div:nth-of-type(1)
+##.home-banner-wrapper
+##.home-video-blurb.row
+##.is_stuck.clearfix.col-xs-3.col-sm-3.col-md-3.col-lg-3.sticky-right.ads__skyscraper.ads
+##.marginbot:nth-of-type(2)
+##.marginbot.boxs.bgblacktr
+##.mb20.banner-right-sticky-wrap
+##.mb20.banner-top
+##.mb20.r1.banner-right
+##.mt20.r2.banner-right.js-giant-wp-sticky
+##.notice_16.DismissParent.Notice.panel > .noticeContent.baseHtml
+##.pip.insider
+##.postcon > div:nth-of-type(2)
+##.read__content > div:nth-of-type(1)
+##.read__content > div:nth-of-type(2)
+##.semprotnenenmontok_1
+##.semprotnenenmontok_2
+##.semprotnenenmontok_adalah_pujaan_hatiku > .warning
+##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(1)
+##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(2)
+##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(4)
+##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(5)
+##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(6)
+##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(7)
+##.semprotnenenmontok_adalah_pujaan_hatiku > div:nth-of-type(8)
+##.semprotnenenmontok_flr
+##.semprotnenenmontok_sq
+##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
+##.sgpb-popup-dialog-main-div-wrapper
+##.text-center.flying_desktop
+##.topline-ads
+##.top-banner > .banner-wrapper
+##.visible-lg.ads-skin
+##.wpcnt-header.wpcnt
+##.wpwidesky.wpa
+##.xda-box.postbit-wrapper
+##[src="http://mangaku.in/Gambar/suport.html"]
+##a[href^="http://p31770.inclk.com/itab/sa"]
+##body > div:nth-of-type(2)
+##div.row:nth-of-type(8) > .col-xs-12
+##div:nth-of-type(3) > a[href^="yum.php"] > .semprotnenenmontok_h
+##div:nth-of-type(9)
+##iframe[src="http://mangaku.web.id/Gambar/Ads%20index300.html"]
+##li.message:nth-of-type(2)
+*###repop
+###adsframe
+###cba
+###cklansd
+###Balloon_hide
+###Balloon_inner_wrp
+###banner_top_detail
+###bm_banner
+###ehfh-3nEXp38R7jUC3jTVq0vSqU_TqEvSqkzVqkraqU3OqR
+###ehfh-3nEXp38R7jUC3jTVq0vSqU_TqEvSqkzVqkraqU3Oqx
+###ehfh-3UfR3XQG1XkF6WcK3IoC530ApUrSskfRrE3WpVMwx2giyVEixFjPuVcupYoG23wAr2cA2XcP7nkK5H0T1Wb
+###ehfh-3UfR3XQG1XkF6WcK3IoC530ApUrSskfRrE3WpVMwx2giyVEixFjPuVcupYoG23wAq0kA1XsQ5IwC43YG6GcA
+###ftads
+###ftadsth
+###header > div
+###ivsplayer01-container
+###js-radio > .clearfix.container
+###kanan
+###msbMsb
+###my_qrcode
+###notices
+###overplay
+###popup_jne
+###prestitial
+###recommended-for-you > .col-xs-12
+###post-1897020576 > div:nth-of-type(4)
+###scl1
+###scl2
+###semprotnenenmontok_3
+###semprotnenenmontok_4
+###semprotnenenmontok_f
+###sticky-mobile-r
+###teaser1
+###videoad2
+###videoad4
+###videoads
