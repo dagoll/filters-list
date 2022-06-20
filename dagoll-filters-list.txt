@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20220620
-! Last modified: 20 June 2022 08:33 WIB
+! Last modified: 20 June 2022 08:55 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -46,8 +46,10 @@
 ##.highlight > div:nth-of-type(1)
 ##.home-banner-wrapper
 ##.home-video-blurb.row
+##.inline.video-box-wrap
 ##.is_stuck.clearfix.col-xs-3.col-sm-3.col-md-3.col-lg-3.sticky-right.ads__skyscraper.ads
 ##.J_CampaignBanner.card-platform-campaign-banner.hp-mod-card
+##.kaskus-tv-iframe
 ##.marginbot:nth-of-type(2)
 ##.marginbot.boxs.bgblacktr
 ##.mb20.banner-right-sticky-wrap
