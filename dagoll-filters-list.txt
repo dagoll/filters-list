@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20220620
-! Last modified: 20 June 2022 08:55 WIB
+! Last modified: 20 June 2022 13:50 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -20,6 +20,7 @@
 @@pajak.go.id
 @@realme.com
 @@trimble.com
+webmail.cbn.co.id#@#body > div:nth-of-type(2)
 !
 !
 ! Ad Blocking Rules
