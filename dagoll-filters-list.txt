@@ -1,11 +1,12 @@
 ! Title: Dagoll's Filters List
 ! Version: 20220620
-! Last modified: 20 June 2022 17:22 WIB
+! Last modified: 20 June 2022 17:28 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
-! Whitelist Rules
-! ---------------
+!
+! Whitelist Domain
+! ----------------
 @@anteraja.id
 @@brightgas.co.id
 @@cbn.id
@@ -20,6 +21,10 @@
 @@pajak.go.id
 @@realme.com
 @@trimble.com
+!
+!
+! Whitelist Element Hiding
+--------------------------
 google.com#@#body > div:nth-of-type(2)
 google.com#@#div:nth-of-type(9)
 webmail.cbn.co.id#@#body > div:nth-of-type(2)
