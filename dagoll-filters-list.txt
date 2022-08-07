@@ -1,5 +1,5 @@
 ! Title: Dagoll's Filters List
-! Version: 20220722
+! Version: 20220807
 ! Last modified: 07 August 2022 20:35 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
