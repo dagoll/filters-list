@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20220722
-! Last modified: 06 August 2022 06:53 WIB
+! Last modified: 07 August 2022 20:35 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -53,7 +53,7 @@
 ##.highlight > div:nth-of-type(1)
 ##.home-banner-wrapper
 ##.home-video-blurb.row
-##.hotslid
+mangacanblog.com##.hotslid
 ##.inline.video-box-wrap
 ##.is_stuck.clearfix.col-xs-3.col-sm-3.col-md-3.col-lg-3.sticky-right.ads__skyscraper.ads
 ##.J_CampaignBanner.card-platform-campaign-banner.hp-mod-card
@@ -133,7 +133,7 @@ detik.com###leaderboard
 ###semprotnenenmontok_f
 ###sticky-mobile-r
 ###teaser1
-###teaser3
+mangacanblog.com###teaser3
 ###videoad2
 ###videoad4
 ###videoads
