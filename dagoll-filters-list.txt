@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
-! Version: 20220807
-! Last modified: 07 August 2022 20:35 WIB
+! Version: 20220904
+! Last modified: 04 September 2022 18:53 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -118,6 +118,7 @@ kompas.com###header > div
 ###js-radio > .clearfix.container
 ###kanan
 detik.com###leaderboard
+###main-widget > .HTML.widget
 ###msbMsb
 ###my_qrcode
 ###notices
