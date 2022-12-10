@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20220904
-! Last modified: 04 September 2022 18:53 WIB
+! Last modified: 11 Desember 2022 06:30 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -134,6 +134,7 @@ detik.com###leaderboard
 ###semprotnenenmontok_f
 ###sticky-mobile-r
 ###teaser1
+15.235.11.45###teaser3
 mangacanblog.com###teaser3
 ###videoad2
 ###videoad4
