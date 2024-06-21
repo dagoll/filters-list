@@ -1,6 +1,6 @@
 ! Title: Dagoll's Filters List
 ! Version: 20240113
-! Last modified: 22 June 2024 01:45 WIB
+! Last modified: 22 June 2024 02:12 WIB
 ! Expires: 1 days (update frequency)
 ! Link: https://raw.githubusercontent.com/dagoll/filters-list/master/dagoll-filters-list.txt
 !
@@ -13,6 +13,7 @@
 @@cbn.net.id
 @@certmetrics.com
 @@cisco.com
+@@credly.com
 @@firstmedia.com
 @@ikea.co.id
 @@jd.com
